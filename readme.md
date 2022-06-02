@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (The Lake)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto(The Lake)
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Olivia Pérez)
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
